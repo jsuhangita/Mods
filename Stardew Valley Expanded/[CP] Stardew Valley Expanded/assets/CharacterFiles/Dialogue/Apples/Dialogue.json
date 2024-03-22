@@ -14,6 +14,7 @@
 "Reject_458": "{{i18n:Apples.RejectBouquet}}",
 "GreenRain": "{{i18n:Apples.GreenRain}}",
 "AcceptGift_(O)StardropTea": "{{i18n:Apples.GiftStardropTea}}",
+"AcceptGift_(O)Raisins": "{{i18n:Apples.Raisins}}",
 
 //SPRING DIALOGUE
 "Mon": "{{i18n:Apples.CharacterDialogue.005}}",

@@ -74,12 +74,8 @@
         { //Abigail chronicles of solaria schedule
             "Action": "EditData",
             "Target": "characters/schedules/Abigail",
-            "When": {
-                "Day": "20",
-                "Spouse": "Abigail"
-            },
             "Entries": {
-                "Sat": "1100 SebastianRoom 3 10 0/2100 BusStop -1 23 3",
+                "marriage_{{Season}}_20": "1100 SebastianRoom 3 10 0/2100 BusStop -1 23 3",
             },
         },
         { //ABIGAIL DIALOGUE

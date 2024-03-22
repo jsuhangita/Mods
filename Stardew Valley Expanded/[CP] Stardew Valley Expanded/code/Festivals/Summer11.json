@@ -196,7 +196,9 @@
         "Wizard_y2": "{{i18n:luau.wizard.1}}"
       },
       "When": {
-        "Spouse": "Wizard"
+        "Spouse": "Wizard",
+        "HasMod |contains=Parrot.RomRas": false,
+        "HasMod |contains=Jellonip.RRRR": false,
       }
     },
     { // YEAR ONE luau festival data

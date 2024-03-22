@@ -135,7 +135,7 @@
           "Appearance": [
             {
               "Id": "Winter",
-              "Condition": null,
+              "Condition": "!{{HasMod |contains=Poltergeister.SeasonalCuteSpritesSVE}}",
               "Season": "Winter",
               "Indoors": true,
               "Outdoors": true,

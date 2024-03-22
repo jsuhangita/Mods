@@ -44,7 +44,7 @@
           "Appearance": [
             {
               "Id": "Winter",
-              "Condition": "!LOCATION_NAME Target JojaMart, !LOCATION_NAME Target MovieTheater",
+              "Condition": "!LOCATION_NAME Target JojaMart, !LOCATION_NAME Target MovieTheater, !{{HasMod |contains=Poltergeister.SeasonalCuteSpritesSVE}}",
               "Season": "Winter",
               "Indoors": true,
               "Outdoors": true,

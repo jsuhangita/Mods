@@ -453,6 +453,10 @@
                         },
                         //Vanilla Fish
                         {
+                            "Id": "FlashShifter.StardewValleyExpandedCP_RiverJelly",
+                            "ItemId": "(O)RiverJelly",
+                        },
+                        {
                             "Id": "FlashShifter.StardewValleyExpandedCP_(O)136",
                             "ItemId": "(O)136",
                             "Condition": "LOCATION_Season Here Fall Spring Summer Winter",
@@ -593,6 +597,16 @@
                             "Id": "FlashShifter.StardewValleyExpandedCP_(O)128",
                             "ItemId": "(O)128",
                             "Condition": "LOCATION_Season Here Summer",
+                        },
+                        {
+                            "Id": "FlashShifter.StardewValleyExpandedCP_SeaJelly",
+                            "FishAreaID": "River",
+                            "ItemId": "(O)SeaJelly",
+                        },
+                        {
+                            "Id": "FlashShifter.StardewValleyExpandedCP_SeaJelly",
+                            "FishAreaID": "Ocean",
+                            "ItemId": "(O)SeaJelly",
                         },
                         {
                             "Id": "FlashShifter.StardewValleyExpandedCP_(O)129",
@@ -889,6 +903,10 @@
                         },
                         //Vanilla Fish
                         {
+                            "Id": "FlashShifter.StardewValleyExpandedCP_SeaJelly",
+                            "ItemId": "(O)SeaJelly",
+                        },
+                        {
                             "Id": "FlashShifter.StardewValleyExpandedCP_(O)128",
                             "ItemId": "(O)128",
                             "Condition": "LOCATION_Season Here Fall Spring Summer Winter",
@@ -1007,6 +1025,10 @@
                         },
                         //Vanilla Fish
                         {
+                            "Id": "FlashShifter.StardewValleyExpandedCP_RiverJelly",
+                            "ItemId": "(O)RiverJelly",
+                        },
+                        {
                             "Id": "FlashShifter.StardewValleyExpandedCP_(O)132",
                             "ItemId": "(O)132",
                             "Condition": "LOCATION_Season Here Fall Spring Summer Winter",
@@ -1117,7 +1139,6 @@
                         "Y": 29,
                     },
                     "CreateOnLoad": {
-                        "AlwaysActive": true,
                         "MapPath": "Maps\\Custom_Garden"
                     },
                     "CanPlantHere": true,
@@ -1171,6 +1192,10 @@
                     },
                     "Fish": [
                         //Vanilla Fish
+                        {
+                            "Id": "FlashShifter.StardewValleyExpandedCP_RiverJelly",
+                            "ItemId": "(O)RiverJelly",
+                        },
                         {
                             "Id": "FlashShifter.StardewValleyExpandedCP_(O)132",
                             "ItemId": "(O)132",
@@ -1320,6 +1345,10 @@
                     },
                     "Fish": [
                         //Vanilla Fish
+                        {
+                            "Id": "FlashShifter.StardewValleyExpandedCP_RiverJelly",
+                            "ItemId": "(O)RiverJelly",
+                        },
                         {
                             "Id": "FlashShifter.StardewValleyExpandedCP_(O)132",
                             "ItemId": "(O)132",
@@ -1540,6 +1569,7 @@
                     },
                     "Fish": [
                         //SVE Fish
+
                         {
                             "Id": "FlashShifter.StardewValleyExpandedCP_Bull_Trout",
                             "ItemId": "(O)FlashShifter.StardewValleyExpandedCP_Bull_Trout",
@@ -1553,6 +1583,10 @@
                             "Condition": "LOCATION_Season Here Fall Spring Summer Winter",
                         },
                         //Vanilla Fish
+                        {
+                            "Id": "FlashShifter.StardewValleyExpandedCP_RiverJelly",
+                            "ItemId": "(O)RiverJelly",
+                        },
                         {
                             "Id": "FlashShifter.StardewValleyExpandedCP_(O)136",
                             "ItemId": "(O)136",
@@ -1672,6 +1706,10 @@
                         },
                         //Vanilla Fish
                         {
+                            "Id": "FlashShifter.StardewValleyExpandedCP_CaveJelly",
+                            "ItemId": "(O)CaveJelly",
+                        },
+                        {
                             "Id": "FlashShifter.StardewValleyExpandedCP_(O)158",
                             "ItemId": "(O)158",
                             "Condition": "LOCATION_Season Here Fall Spring Summer Winter",
@@ -1715,6 +1753,10 @@
                             "Condition": "LOCATION_Season Here Fall Spring Summer Fall",
                         },
                         //Vanilla Fish
+                        {
+                            "Id": "FlashShifter.StardewValleyExpandedCP_RiverJelly",
+                            "ItemId": "(O)RiverJelly",
+                        },
                         {
                             "Id": "FlashShifter.StardewValleyExpandedCP_(O)136",
                             "ItemId": "(O)136",
@@ -1807,6 +1849,10 @@
                             "Condition": "LOCATION_Season Here Fall Spring Summer",
                         },
                         //Vanilla Fish
+                        {
+                            "Id": "FlashShifter.StardewValleyExpandedCP_RiverJelly",
+                            "ItemId": "(O)RiverJelly",
+                        },
                         {
                             "Id": "FlashShifter.StardewValleyExpandedCP_(O)132",
                             "ItemId": "(O)132",
@@ -1938,6 +1984,10 @@
                         },
                         //Vanilla Fish
                         {
+                            "Id": "FlashShifter.StardewValleyExpandedCP_RiverJelly",
+                            "ItemId": "(O)RiverJelly",
+                        },
+                        {
                             "Id": "FlashShifter.StardewValleyExpandedCP_(O)132",
                             "ItemId": "(O)132",
                             "Condition": "LOCATION_Season Here Winter",
@@ -2063,6 +2113,10 @@
                             "Id": "FlashShifter.StardewValleyExpandedCP_Meteor_Carp",
                             "ItemId": "(O)FlashShifter.StardewValleyExpandedCP_Meteor_Carp",
                             "Condition": "LOCATION_Season Here Fall Spring Summer Winter",
+                        },
+                        {
+                            "Id": "FlashShifter.StardewValleyExpandedCP_RiverJelly",
+                            "ItemId": "(O)RiverJelly",
                         },
                     ],
                     "ArtifactSpots": [
@@ -3223,7 +3277,7 @@
             "Entries": {
                 "FlashShifter.StardewValleyExpandedCP_Kittyfish": {
                     "Id": "FlashShifter.StardewValleyExpandedCP_Kittyfish",
-                    "ItemId": "(O)FlashShifter.StardewValleyExpandedCP_Kittyfisht",
+                    "ItemId": "(O)FlashShifter.StardewValleyExpandedCP_Kittyfish",
                     "Condition": "LOCATION_Season Here Fall Winter",
                 },
             },

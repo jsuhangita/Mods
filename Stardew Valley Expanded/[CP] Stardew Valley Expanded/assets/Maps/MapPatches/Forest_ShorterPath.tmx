@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.5" tiledversion="1.5.0" orientation="orthogonal" renderorder="right-down" width="25" height="35" tilewidth="16" tileheight="16" infinite="0" nextlayerid="27" nextobjectid="234">
+<map version="1.5" tiledversion="1.5.0" orientation="orthogonal" renderorder="right-down" width="25" height="35" tilewidth="16" tileheight="16" infinite="0" nextlayerid="27" nextobjectid="236">
  <tileset firstgid="1" name="Paths" tilewidth="16" tileheight="16" tilecount="64" columns="4">
   <image source="paths.png" width="64" height="256"/>
   <tile id="0">
@@ -5532,7 +5532,7 @@
    eJyNVrtuU0EQjUhvHAe+4XpvEgkkaIEofqSgcJFINMiER8cHJLxSUgcR+AdIFPMNDnwAtEmwa2o7uEBiRncOezLei1Mcre+93jkzZ+ex+2Fu7gPhleBQMDb8FkwEV/NibQtG9l7fndg6tBX/GxN6glV537XfaqNC/9V1IOtCPm1/QHbLcEJ+jZ3varNOGNG3WXY92C/Eu2Bx4RvbTmkzCym/WJOaPC8arl3CnucekN910r9rZ6Lfl2RdNqy4fSnUSvypCvp25t0QOfRbQ9A0tBI28Q57Gon/QnuAz9bHndKta3lzJMjkeS1xZqpBy+x7H1mTYYlu3x9G/zjvGcv5tH1/TnXzL6Wb7m0lNPYcvUTuqt1gOaa+ZvbuWJ6/Cr6F4rlttvsWB/RiX5WDuVXLqu1V/7YFTwSvBTv0+6X5rPbXjQMxeXvKAR/XLIZgOqv9F4I/8vxY1n3rZweCW1nkYOBMapQXfOaZ2d82n9W+2v4cij4JO3uCRpbWvoyjHS7Wh9q+ITZuCrZMix7htrzfyGL80CBVO8MQ84pxRd7N53H13zeNm88mK+Hh3PUcsA8uztFP7my2iCcVl3Kcl8ThOdADzi2f140PPD7n/p0R1e51q6/5kjiwLxecyvNP4/NxvXcx+drV2tA9bztFTh1SHXjN9TyVb0zx7VlMO1RPvm6D2XveKfzhObXqasn3H/inMeFuoHm/0SlwR3BX8MCeN40Dub5I54aecWy+Kd+EYlIdz0zLseODplihE/dbzo0e8fnYtIdMDN0w3Z95lqhOzJHK9bbpWHHace2rP/fyIheRn6chzinP4XMdQE7oHp65Z047vkOg1zcsx++H2TyIBX6tOFupu8CEeJqunjy4r6fm+mXuL+xfCqk5qGePe2ZqxiFXwKkxcc0iLmg4Cun7GmYS5t1T6jmp2TmwfMTdg+PCncxzVPM4754J3gkehdhLfU4iZvAyR6q/o/515uzm0b6uH0NR5z4WzPqKabdEWvXpvxyP6tQUjjdmf2BcX/IYSz9c7Lmc474HpHqa+qRzjWPgVe8GqbNEn+A4APXhh/k1DHGuHZDdXVv1PsJ3A9idhP/nsn7/RX3sL9nWvtg=
   </data>
  </layer>
- <objectgroup id="2" name="Back" visible="0">
+ <objectgroup id="2" name="Back">
   <object id="62" name="TileData" x="384" y="304" width="16" height="16">
    <properties>
     <property name="TouchAction" value="LoadMap Custom_BlueMoonVineyard 1 51 1"/>
@@ -5544,6 +5544,16 @@
    </properties>
   </object>
   <object id="64" name="TileData" x="384" y="336" width="16" height="16">
+   <properties>
+    <property name="TouchAction" value="LoadMap Custom_BlueMoonVineyard 1 51 1"/>
+   </properties>
+  </object>
+  <object id="234" name="TileData" x="96" y="224" width="16" height="16">
+   <properties>
+    <property name="TouchAction" value="LoadMap Custom_BlueMoonVineyard 1 51 1"/>
+   </properties>
+  </object>
+  <object id="235" name="TileData" x="112" y="224" width="16" height="16">
    <properties>
     <property name="TouchAction" value="LoadMap Custom_BlueMoonVineyard 1 51 1"/>
    </properties>
@@ -5590,16 +5600,6 @@
   <object id="229" name="TileData" x="240" y="432" width="16" height="16">
    <properties>
     <property name="Action" value="MasteryRoom"/>
-   </properties>
-  </object>
-  <object id="232" name="TileData" x="96" y="224" width="16" height="16">
-   <properties>
-    <property name="TouchAction" value="LoadMap Custom_BlueMoonVineyard 1 51 1"/>
-   </properties>
-  </object>
-  <object id="233" name="TileData" x="112" y="224" width="16" height="16">
-   <properties>
-    <property name="TouchAction" value="LoadMap Custom_BlueMoonVineyard 1 51 1"/>
    </properties>
   </object>
  </objectgroup>

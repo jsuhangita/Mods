@@ -278,12 +278,12 @@
             {
               "Type": "Donate",
               "Text": "[Olivia_Objective_1_Text]",
-              "RequiredCount": "10",
+              "RequiredCount": "20",
               "Data": {
                 "DropBox": "OliviaDropoff",
                 "DropBoxGameLocation": "Custom_OliviaCellar",
                 "DropBoxIndicatorLocation": "8.5 4.2",
-                "AcceptedContextTags": "item_starfruit_wine"
+                "AcceptedContextTags": "wine_item"
               }
             },
             {
