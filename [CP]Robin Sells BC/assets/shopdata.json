@@ -1,0 +1,90 @@
+{
+    "$schema": "https://smapi.io/schemas/content-patcher.json",
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Shops",
+            "LogName": "Robins Shop",
+            "TargetField": ["Carpenter", "Items"],
+            "Entries": {
+                "ModId_PreservesJar": {
+                    "Price": 12500,
+                    "ItemId": "(BC)15",
+                    "IgnoreShopPriceModifiers": true
+                },
+                "ModId_BeeHouse": {
+                    "Price": 7500,
+                    "ItemId": "(BC)10",
+                    "IgnoreShopPriceModifiers": true
+					
+                },
+                "ModId_Cask": {
+                    "Price": 10000,
+                    "ItemId": "(BC)163",
+                    "IgnoreShopPriceModifiers": true
+					
+                },
+                "ModId_Tapper": {
+                    "Price": 2500,
+                    "ItemId": "(BC)105",
+                    "IgnoreShopPriceModifiers": true
+					
+                },
+                "ModId_HeavyTapper": {
+                    "Price": 7000,
+                    "ItemId": "(BC)264",
+                    "IgnoreShopPriceModifiers": true
+					
+                },
+                "ModId_CheesePress": {
+                    "Price": 5000,
+                    "ItemId": "(BC)16",
+                    "IgnoreShopPriceModifiers": true
+					
+                },			
+                "ModId_Loom": {
+                    "Price": 5000,
+                    "ItemId": "(BC)17",
+                    "IgnoreShopPriceModifiers": true
+					
+                },	
+                "ModId_OilMaker": {
+                    "Price": 7000,
+                    "ItemId": "(BC)19",
+                    "IgnoreShopPriceModifiers": true
+					
+                },			
+                "ModId_Keg": {
+                    "Price": 12500,
+                    "ItemId": "(BC)12",
+                    "IgnoreShopPriceModifiers": true
+					
+                },			
+                "ModId_Furnance": {
+                    "Price": 3500,
+                    "ItemId": "(BC)13",
+                    "IgnoreShopPriceModifiers": true
+					
+                },			
+                "ModId_MayonnaiseMachine": {
+                    "Price": 5000,
+                    "ItemId": "(BC)24",
+                    "IgnoreShopPriceModifiers": true
+					
+                },	
+                "ModId_RecyleMachine": {
+                    "Price": 3500,
+                    "ItemId": "(BC)20",
+                    "IgnoreShopPriceModifiers": true
+					
+                },	
+                "ModId_SeedMaker": {
+                    "Price": 7000,
+                    "ItemId": "(BC)25",
+                    "IgnoreShopPriceModifiers": true
+					
+                },					
+            }
+        },
+    ]
+}

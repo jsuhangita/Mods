@@ -1,0 +1,31 @@
+{
+  "EnableOnFestivalDays": true,
+  "LocationNotify": true,
+  "SecondsPerMinute": {
+    "Indoors": 1.5,
+    "Outdoors": 1.2,
+    "Mines": 1.5,
+    "SkullCavern": 1.5,
+    "VolcanoDungeon": 1.5,
+    "ByLocationName": {}
+  },
+  "FreezeTime": {
+    "AnywhereAtTime": null,
+    "Indoors": false,
+    "Outdoors": false,
+    "Mines": false,
+    "SkullCavern": false,
+    "VolcanoDungeon": false,
+    "ByLocationName": [
+      "Bathhouse",
+      "Farmhouse"
+    ],
+    "ExceptLocationNames": []
+  },
+  "Keys": {
+    "FreezeTime": "Pause",
+    "IncreaseTickInterval": "Subtract",
+    "DecreaseTickInterval": "Add",
+    "ReloadConfig": "B"
+  }
+}

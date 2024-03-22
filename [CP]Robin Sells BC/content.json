@@ -1,0 +1,9 @@
+{
+   "Format": "2.0.0", //use 2.0.0 for 1.6 version because 1.30.0 doesn't allow to add custom items into the game.
+   "Changes": [
+      {
+      "Action": "Include",  //includes your other .json code files, in this case, your objects.json from assets folder 
+      "FromFile": "assets/shopdata.json",
+	   },
+   ]
+}
