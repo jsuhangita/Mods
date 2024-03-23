@@ -1,6 +1,6 @@
 Object:Aegis Elixir=FlashShifter.StardewValleyExpandedCP_Aegis_Elixir
 Object:Aged Blue Moon Wine=FlashShifter.StardewValleyExpandedCP_Aged_Blue_Moon_Wine
-Object:Ancient Ferns Seed=FlashShifter.StardewValleyExpandedCP_Ancient_Ferns_Seed
+Object:Ancient Ferns Seed=FlashShifter.StardewValleyExpandedCP_Ancient_Fern_Seed
 Object:Ancient Fiber=FlashShifter.StardewValleyExpandedCP_Ancient_Fiber
 Object:Armor Elixir=FlashShifter.StardewValleyExpandedCP_Armor_Elixir
 Object:Aurora Vineyard Property Deed=FlashShifter.StardewValleyExpandedCP_Aurora_Vineyard_Property_Deed

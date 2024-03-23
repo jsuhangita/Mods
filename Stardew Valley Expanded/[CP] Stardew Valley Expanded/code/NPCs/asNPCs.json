@@ -440,7 +440,7 @@
     },
     {
       "Action": "Load",
-      "Target": "Portraits/Suki_IceFestival",
+      "Target": "Portraits/Suki_DesertFestival",
       "FromFile": "Assets/CharacterFiles/Portraits/Suki/Suki_DesertFestival.png"
     },
     {

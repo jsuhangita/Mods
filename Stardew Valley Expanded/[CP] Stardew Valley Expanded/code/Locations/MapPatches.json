@@ -531,6 +531,16 @@
                "Target": "Maps/Forest",
                "FromFile": "Assets/maps/locations/Forest.tmx",
           },
+		  {
+               "Action": "Load",
+               "Target": "Maps/Forest-SewerClean",
+               "FromFile": "Assets/maps/MapPatches/Forest-SewerClean.tbin",
+          },
+		  {
+               "Action": "Load",
+               "Target": "Maps/MasteryCave",
+               "FromFile": "Assets/maps/locations/MasteryCave.tmx",
+          },
           {
                "Action": "Load",
                "Target": "Maps/BusStop",
